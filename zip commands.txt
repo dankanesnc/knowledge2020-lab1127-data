@@ -1,0 +1,10 @@
+zip --no-dir-entries --recurse-paths --junk-paths 01.sys_user.json.zip 01.sys_user.json
+zip --no-dir-entries --recurse-paths --junk-paths 02.sys_user_group.json.zip 02.sys_user_group.json
+zip --no-dir-entries --recurse-paths --junk-paths 03.sys_user_has_role.json.zip 03.sys_user_has_role.json
+zip --no-dir-entries --recurse-paths --junk-paths 04.sys_user_grmember.json.zip 04.sys_user_grmember.json
+zip --no-dir-entries --recurse-paths --junk-paths 08.change_request.json.zip 08.change_request.json
+zip --no-dir-entries --recurse-paths --junk-paths 11.kb_knowledge.json.zip 11.kb_knowledge.json
+zip --no-dir-entries --recurse-paths --junk-paths 16.task_sla.json.zip 16.task_sla.json
+zip --no-dir-entries --recurse-paths --junk-paths u_nps.json.zip u_nps.json
+zip --no-dir-entries --recurse-paths --junk-paths pa201.sys_user_group.json.zip pa201.sys_user_group.json
+zip --no-dir-entries --recurse-paths --junk-paths pa201.sys_user.json.zip pa201.sys_user.json
